@@ -47,7 +47,7 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/ThelediMaluleka/portfolio.git
    ```
 2. Open the folder:
    ```bash
