@@ -6,7 +6,7 @@ A personal portfolio website built for the **Web Development** module (IT: Syste
 
 🔗 **https://ThelediMaluleka.github.io/portfolio/**
 
-Repository: https://github.ThelediMaluleka/portfolio
+Repository: https://github.com/ThelediMaluleka/portfolio
 
 ## Technologies Used
 
