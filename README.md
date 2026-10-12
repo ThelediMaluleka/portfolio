@@ -69,7 +69,7 @@ Every AI tool and external resource used in this project:
 | [Google Fonts — Poppins](https://fonts.google.com/specimen/Poppins) | Main font of the website. |
 | [MDN Web Docs](https://developer.mozilla.org/) | Reference for IntersectionObserver, form validation and CSS Grid. |
 | [GitHub Pages documentation](https://docs.github.com/en/pages) | Instructions for deploying the site. |
-| [Add any YouTube tutorial / template you followed] | [How you used it] |
+| [YouTube tutorial](https://www.youtube.com/watch?v=uTPO6fKtBvM) | [To get an idea of an appropriate layout for the website and what main features are required and how they should function] |
 
 ## Author
 
