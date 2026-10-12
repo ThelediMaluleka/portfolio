@@ -4,9 +4,9 @@ A personal portfolio website built for the **Web Development** module (IT: Syste
 
 ## Live Website
 
-🔗 **https://your-ThelediMaluleka.github.io/portfolio/**
+🔗 **https://ThelediMaluleka.github.io/portfolio/**
 
-Repository: https://github.com/your-username/portfolio
+Repository: https://github.ThelediMaluleka/portfolio
 
 ## Technologies Used
 
